@@ -1,1 +1,30 @@
-/*# sourceMappingURL=style.css.map */
+.bg-body-tertiary {
+  background-color: #0c7405 !important;
+}
+
+.navbar-brand {
+  color: #ffffff !important;
+}
+
+.nav-link {
+  color: #ffffff !important;
+}
+
+.nav-link:active {
+  color: white;
+}
+
+.banner-container {
+  width: 100vw;
+  height: 200px;
+  overflow: hidden;
+}
+
+#banner-header {
+  width: 100%;
+  height: 100%;
+  -o-object-fit: cover;
+     object-fit: cover;
+  -o-object-position: center;
+     object-position: center;
+}/*# sourceMappingURL=style.css.map */
